@@ -27,4 +27,4 @@ Open the post in seperate window and should load all the comments
 It doesn't work on nested comment. 
 
 ## TLDR
-Reply to the every comment of the LinkedIn post automatically.
+Reply to every comment of particular LinkedIn post automatically.

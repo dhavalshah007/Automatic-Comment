@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Setup](#setup)
 * [Prerequisites](#prerequisites)
-* [Limitation](#limitations)
+* [Limitation](#limitation)
 * [TLDR](#tldr)
 
 ## General info
